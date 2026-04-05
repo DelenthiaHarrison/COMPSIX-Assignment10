@@ -11,7 +11,9 @@ A REST API for managing tasks with user authentication, built with Node.js, Expr
 - SQLite database with Sequelize ORM
 
 ## API Endpoints
+Postman:https://delenthiah-5294775.postman.co/workspace/CMSC-103~0ae92016-e7de-4392-847d-fc6480408c3a/collection/52405459-8f930a95-109c-44bd-9a72-de736ee272cd?action=share&source=copy-link&creator=52405459
 
+API Deployment: https://compsix-assignment10-4vg2.onrender.com
 ### Authentication
 - `POST /api/register` - Register a new user
 - `POST /api/login` - Login user
